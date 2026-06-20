@@ -1,0 +1,1 @@
+import{c as r,n as c,s as o}from"./format-TicfIp0T.js";function e(t){return r(t,Date.now())}function u(t,n,s){const[a,i]=c(s?.in,t,n);return+o(a)==+o(i)}function m(t,n){return u(r(t,t),e(t))}export{m as i};
